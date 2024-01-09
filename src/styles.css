@@ -1,0 +1,19 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+
+  }
+  
+  .movie-list-box {
+    width: 20rem;
+    max-width: 20rem;
+    background-color: grey;
+    padding: 2rem
+  }
+  
+  .movie-box {
+    width: 10rem;
+    max-width: 10rem;
+    background-color: whitesmoke;
+    cursor: pointer
+  }
